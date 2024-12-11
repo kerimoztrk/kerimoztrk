@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>🤝 Bilgisayar Mühendisi<br>
+<br>🤝 Computer Engineer<br>
 
 
 ## 🌐 Socials:
