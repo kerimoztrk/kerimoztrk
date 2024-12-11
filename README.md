@@ -19,11 +19,6 @@
 
 ---
 
-### 🔥 GitHub Çizgi İstatistikleri
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kerimoztrk&theme=radical)
-
----
-
 ### 🌟 Hakkımda
 - 🎓 Bilgisayar Mühendisliği Mezunu
 - 💼 Şu Anki Pozisyon: Bilgisayar Öğretmeni  
